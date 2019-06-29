@@ -17,8 +17,8 @@ These are the talks/workshop that were presented in ParanaConf 2019
   * Criptografía de datos
     * ...
 
-  * Sistemas de información geográfica, bases de datos espaciales y su implementación en el desarrollo de aplicaciones
-    * ...
+  * **Sistemas de información geográfica, bases de datos espaciales y su implementación en el desarrollo de aplicaciones**
+    * GitHub \[ [download - Infraestructura de Datos Espaciales](https://github.com/ParanaConf/2019.presentations/blob/master/Sistemas%20de%20información%20geográfica,%20bases%20de%20datos%20espaciales%20y%20su%20implementación%20en%20el%20desarrollo%20de%20aplicaciones/SisInfGeo-InfraestructuraDatosEspaciales.pdf) | [Download - Bases de Datos Espaciales](https://github.com/ParanaConf/2019.presentations/blob/master/Sistemas%20de%20información%20geográfica,%20bases%20de%20datos%20espaciales%20y%20su%20implementación%20en%20el%20desarrollo%20de%20aplicaciones/BaseDeDatosEspaciales.pdf) | [repository](https://github.com/ParanaConf/2019.presentations/blob/master/Sistemas%20de%20información%20geográfica,%20bases%20de%20datos%20espaciales%20y%20su%20implementación%20en%20el%20desarrollo%20de%20aplicaciones/)\]
 
   * OSINT como herramienta para la identificación e investigación de fraude corporativo
     * ...
@@ -41,8 +41,8 @@ These are the talks/workshop that were presented in ParanaConf 2019
   * Manual del Paranóico
     * ...
 
-  * iKy (I Know you) - OSINT Tool
-    * ...
+  * **iKy (I Know you) - OSINT Tool**
+    * GitHub \[ [download](https://github.com/ParanaConf/2019.presentations/blob/master/iKy%20(I%20Know%20you)%20-%20OSINT%20Tool/iKy.pdf) | [repository](https://github.com/ParanaConf/2019.presentations/tree/master/iKy%20(I%20Know%20you)%20-%20OSINT%20Tool) \]
 
   * Incursionando en el mundo de la seguridad sin morir en el intento
     * ...
