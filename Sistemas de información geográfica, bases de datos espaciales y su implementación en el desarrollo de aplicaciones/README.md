@@ -18,5 +18,5 @@ Ejemplificarán con un análisis de un caso concreto, usando base de datos espac
 |Website:						|[https://www.geoarq.net/](https://www.geoarq.net/)		|
 
 ## Link  
-  * [GitHub - Infraestructura de Datos Espaciales](https://github.com/ParanaConf/2019.presentations/blob/master/Sistemas%20de%20información%20geográfica,%20bases%20de%20datos%20espaciales%20y%20su%20implementación%20en%20el%20desarrollo%20de%20aplicaciones/SisInfGeo-InfraestructuraDatosEspaciales.pdf)
-  * [GitHub - Bases de Datos Espaciales](https://github.com/ParanaConf/2019.presentations/blob/master/Sistemas%20de%20información%20geográfica,%20bases%20de%20datos%20espaciales%20y%20su%20implementación%20en%20el%20desarrollo%20de%20aplicaciones/BaseDeDatosEspaciales.pdf)
+  * [GitHub - Infraestructura de Datos Espaciales](https://github.com/ParanaConf/2019.presentations/raw/master/Sistemas%20de%20información%20geográfica,%20bases%20de%20datos%20espaciales%20y%20su%20implementación%20en%20el%20desarrollo%20de%20aplicaciones/SisInfGeo-InfraestructuraDatosEspaciales.pdf)
+  * [GitHub - Bases de Datos Espaciales](https://github.com/ParanaConf/2019.presentations/raw/master/Sistemas%20de%20información%20geográfica,%20bases%20de%20datos%20espaciales%20y%20su%20implementación%20en%20el%20desarrollo%20de%20aplicaciones/BaseDeDatosEspaciales.pdf)

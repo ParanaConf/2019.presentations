@@ -12,5 +12,4 @@
 |Website:						|[https://kennbroorg.gitlab.io/ikyweb/](https://kennbroorg.gitlab.io/ikyweb/)	|
 
 ## Link  
-  * [GitHub](https://github.com/ParanaConf/2019.presentations/blob/master/iKy%20(I%20Know%20you)%20-%20OSINT%20Tool/iKy.pdf)
-
+  * [GitHub](https://github.com/ParanaConf/2019.presentations/raw/master/iKy%20(I%20Know%20you)%20-%20OSINT%20Tool/iKy.pdf)
